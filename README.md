@@ -7,7 +7,9 @@
 > **Важно:** материалы НЕ предназначены для долгосрочного хранения.
 
 <p align="center">
-  <img width="736" height="920" alt="image" src="https://github.com/user-attachments/assets/44af6a5a-87b5-4aea-b905-4faec4998367" />
-       width="500"
-       alt="Python meme">
+  <img
+    width="500"
+    alt="Python meme"
+    src="https://github.com/user-attachments/assets/44af6a5a-87b5-4aea-b905-4faec4998367"
+  />
 </p>
